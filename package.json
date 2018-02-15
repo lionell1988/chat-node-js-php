@@ -1,0 +1,17 @@
+{
+    "name": "node2",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Leonardo",
+    "contributors": [],
+    "dependencies": {
+        "express": "",
+        "socket.io": ""
+    }
+}
